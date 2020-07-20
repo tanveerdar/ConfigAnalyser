@@ -10,7 +10,7 @@ from openpyxl.worksheet.table import Table, TableStyleInfo
 INPUT_FILE_FORMAT = "json"
 LOGFILE = "config_analysis_log.log"
 DEBUG = True
-VERBOSE_OUTPUT = False
+VERBOSE_OUTPUT = True
 
 
 class OutputLogging():
