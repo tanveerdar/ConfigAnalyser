@@ -1,4 +1,5 @@
-This script takes an JSON based configuration export as input, analyses and extracts  configuration items from it , and creates a an excel sheet.
+This script takes JSON configuration as input.
+ Analyses and extracts configuration items and creates an excel sheet.
 
 ## Usage
 
